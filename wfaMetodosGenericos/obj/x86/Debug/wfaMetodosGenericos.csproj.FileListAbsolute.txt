@@ -1,0 +1,16 @@
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\bin\Debug\wfaMetodosGenericos.exe
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\bin\Debug\wfaMetodosGenericos.pdb
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.csprojResolveAssemblyReference.cache
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.frmMetodosGenericos.resources
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.Properties.Resources.resources
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.csproj.GenerateResource.Cache
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.exe
+D:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.pdb
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.exe
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.pdb
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\bin\Debug\wfaMetodosGenericos.exe
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\bin\Debug\wfaMetodosGenericos.pdb
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.csprojResolveAssemblyReference.cache
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.frmMetodosGenericos.resources
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.Properties.Resources.resources
+H:\Whinchester\FABIO\CD\DICAS\C#\wfaMetodosGenericos\wfaMetodosGenericos\obj\x86\Debug\wfaMetodosGenericos.csproj.GenerateResource.Cache
